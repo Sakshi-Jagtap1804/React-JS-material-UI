@@ -6,10 +6,14 @@ Exposure to React JS material UI
 React is a JavaScript library for building user interfaces. It was developed and is maintained by Facebook and a community of individual developers and companies. React is commonly used for creating single-page applications (SPAs) and handling the view layer of web applications.
 
 Key Features for React JS:
-Component-Based: React encourages a modular, component-based approach to UI development, where you build reusable UI elements.
-Virtual DOM:     React uses a virtual representation of the DOM to optimize updates and improve performance.
-Declarative:     React allows developers to describe how the UI should look based on the application's state, and it takes care of updating the actual DOM to match this desired state.
-React Router:    For handling client-side routing within a React application.
+# Component-Based: 
+React encourages a modular, component-based approach to UI development, where you build reusable UI elements.
+# Virtual DOM:     
+React uses a virtual representation of the DOM to optimize updates and improve performance.
+# Declarative:     
+React allows developers to describe how the UI should look based on the application's state, and it takes care of updating the actual DOM to match this desired state.
+# React Router:    
+For handling client-side routing within a React application.
 
 Basic Concepts of React JS:
 Components:        The building blocks of a React application. Components can be class-based or functional, and they encapsulate a part of the user interface.
