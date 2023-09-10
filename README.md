@@ -27,11 +27,15 @@ Lifecycle Methods: Class-based components have lifecycle methods like componentD
 Material-UI is a popular React UI framework that implements the Material Design guidelines developed by Google. It provides a set of reusable and customizable UI components for building modern, visually appealing web applications.
 
 Key Features of Material-UI:
-Material Design:   Material-UI follows the Material Design principles, offering components like buttons, cards, navigation drawers, and more with a sleek and consistent design.
-Customization:     You can customize the appearance of Material-UI components to match your application's branding and style.
-Responsive Design: Material-UI components are designed to be responsive and work well on various screen sizes and devices.
-Theming:           Material-UI includes a robust theming system that allows you to define custom themes and styles for your application.
+# Material Design:   
+Material-UI follows the Material Design principles, offering components like buttons, cards, navigation drawers, and more with a sleek and consistent design.
+# Customization:     
+You can customize the appearance of Material-UI components to match your application's branding and style.
+# Responsive Design: 
+Material-UI components are designed to be responsive and work well on various screen sizes and devices.
+# Theming:           
+Material-UI includes a robust theming system that allows you to define custom themes and styles for your application.
 
-Usage Material-UI:
+# Usage Material-UI:
 To use Material-UI in a React project, you typically start by installing the Material-UI package and configuring a theme for your application.
 You can then import and use Material-UI components in your React components to build the user interface.
